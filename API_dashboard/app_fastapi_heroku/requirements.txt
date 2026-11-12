@@ -1,0 +1,16 @@
+
+pandas
+numpy
+json5
+jsonpickle
+ujson
+pickleshare
+scikit-learn
+
+uvicorn
+fastapi
+pydantic
+dump
+gunicorn
+
+

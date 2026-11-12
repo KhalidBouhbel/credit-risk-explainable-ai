@@ -1,0 +1,16 @@
+streamlit==1.20.0
+requests
+pandas
+json5
+jsonpickle
+ujson
+pickleshare
+plotly
+lime
+scikit-learn
+uvicorn
+fastapi
+pydantic
+dump
+
+

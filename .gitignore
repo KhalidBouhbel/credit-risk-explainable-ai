@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+# Model artifacts
+*.pkl
+*.pickle
+*.joblib
+# Nested Git repositories
+**/.git/
+
+# Sauvegardes
+*_backup.py
+
+# Données dupliquées
+API_dashboard/app_streamlit_heroku/data_reduced3.csv
+
+# Données Kaggle
+API_dashboard/app_fastapi_heroku/data_reduced3.csv
